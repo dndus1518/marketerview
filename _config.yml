@@ -4,14 +4,14 @@ email:              "dndus1518@naver.com"
 description:        "마케터의 마음을 움직인 모든 것들"
 author:             "김우연"
 baseurl:            "/"
-url:                "https://도메인"
+url:                "https://marketerviewpoint.com"
 locale:             "ko_KR"
 thumbnail:          "/img/thumbnail.jpeg"
 
 # Social Profiles
-instagram_username: instagram_wooyeonism
-facebook_username:  facebook_marketerview.kim
-linkedin_username:  linkedin_wooyeonism
+instagram_username: wooyeonism
+facebook_username:  marketerview.kim
+linkedin_username:  wooyeonism
 
 # Build settings
 markdown:           kramdown
