@@ -1,0 +1,24 @@
+title:              "마케터뷰"
+tagline:            "마케터의 리뷰와 인터뷰"
+email:              "dndus1518@naver.com"
+description:        "마케터의 마음을 움직인 모든 것들"
+author:             "김우연"
+baseurl:            "/"
+url:                "https://도메인"
+locale:             "ko_KR"
+thumbnail:          "/img/thumbnail.jpeg"
+
+# Social Profiles
+instagram_username: instagram_wooyeonism
+facebook_username:  facebook_marketerview.kim
+linkedin_username:  linkedin_wooyeonism
+
+# Build settings
+markdown:           kramdown
+permalink:          /:title
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
