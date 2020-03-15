@@ -22,7 +22,7 @@ plugins:
 
 # 블로그 disqus shortname
 disqus:
-shortname: marketerview
+shortname: marketerview-2
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
