@@ -19,10 +19,9 @@ permalink:          /:title
 paginate:           5
 paginate_path:      "/posts/page:num/"
 plugins:
-
-# 블로그 disqus shortname
-disqus:
-shortname: marketerview-2
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
+# 블로그 disqus shortname
+disqus:
+  shortname: marketerview-2
