@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /interview1/
-title: '일을 진정으로 사랑하는 컨설턴트 김헨리'
+title: '마케터뷰_인터뷰 제 1탄 컨설턴트편'
 date: 2020-03-21 17:30:00 +09:00
 feature: '/img/posts/03/01.jpeg'
 background: '/img/posts/03/01.jpeg'
