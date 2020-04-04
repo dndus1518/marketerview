@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /interview1/
+permalink: /interview2/
 title: '마케터뷰_인터뷰 제 2탄 웹디자이너편'
 date: 2020-04-04 20:30:00 +22:40
 feature: '/img/posts/04/01.jpeg'
