@@ -59,9 +59,10 @@ layout: default
     <script>
 
   var clickEvent = function () {
-   gtag(‘event’, ‘글보기’ {‘event_category’ : ‘보기’, ‘event_label’ : “page.title()”});
+   gtag(‘event’,‘글보기’ {‘event_category’:‘보기’, ‘event_label’ : {{ page.title }});
   }
-
+  var pageTitle = document.querySelector('{{ page.title }}');
+  pageTitle.addEventListener('click',clickEvent);
   </script>
 
   </article>
