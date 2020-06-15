@@ -58,14 +58,11 @@ layout: default
     </div>
   </article>
   <script>
-   var clickEvent = function () {
-     gtag('event','글보기',{
-     'event_category':'보기'
-      'event_label':'pagetitle()'});
-   }
+   var postName = '{{pagetitle}}';'
+     gtag('event','보기',{
+     'event_category':'글보기'
+      'event_label':postName});
 
-   var pagetitle = document.querySelector('#post-heading');
-   pagetitle.addEventListener('click',clickEvent);
   </script>
 
   <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false">
