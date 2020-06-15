@@ -60,12 +60,12 @@ layout: default
   <script>
    var clickEvent = function () {
      gtag('event','글보기',{
-     'event_category':'보기',
-      'event_label':'page.title()');
+     'event_category':'보기',{
+      'event_label':'pagetitle()'});
    }
 
-   var page.title = document.querySelector('#post-heading');
-   page.title.addEventListener('click',clickEvent);
+   var page.title = document.querySelector('#download-button');
+   downloadButton.addEventListener('click',clickEvent);
   </script>
 
   <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false">
