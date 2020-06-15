@@ -56,19 +56,17 @@ layout: default
         </div>
       </div>
     </div>
-    <script>
-     var clickEvent = function () {
-       gtag('event','글보기',{
-       'event_category':'보기',
-        'event_label':{{page.title}}});
-     }
-
-     var event_label = document.querySelector('#post-heading');
-
-     event_label.addEventListener('click',clickEvent);
-  </script>
-
   </article>
+  <script>
+   var clickEvent = function () {
+     gtag('event','글보기',{
+     'event_category':'보기',
+      'event_label':page.title);
+   }
+
+   var page.title = document.querySelector('#post-heading');
+   event_label.addEventListener('click',clickEvent);
+  </script>
 
   <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false">
   </script>
