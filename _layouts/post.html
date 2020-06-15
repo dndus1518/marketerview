@@ -57,12 +57,15 @@ layout: default
       </div>
     </div>
     <script>
+     var clickEvent = function () {
+       gtag('event','글보기',{
+       'event_category':'보기',
+        'event_label':{{page.title}}});
+     }
 
-  var clickEvent = function () {
-   gtag(‘event’,‘글보기’ {‘event_category’:‘보기’, ‘event_label’ : {{ page.title }});
-  }
-  var pageTitle = document.querySelector('{{ page.title }}');
-  pageTitle.addEventListener('click',clickEvent);
+     var event_label = document.querySelector('#page.title');
+
+     downloadButton.addEventListener('click',clickEvent);
   </script>
 
   </article>
