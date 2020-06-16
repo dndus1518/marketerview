@@ -65,10 +65,10 @@ gtag('config', 'UA-162010974-1');
   </script>
   <script>
     var postName = '{{ post.title }}';
-    gtag('event','보기',{
-      'event_category':'글보기',
-      'event_label':'postName'});
-
+    gtag('event', '보기', {
+    'event_category': '글보기',
+    'event_label': postName
+  });
   </script>
 
 {% include disqus.html %}
