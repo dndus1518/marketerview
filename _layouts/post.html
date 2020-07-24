@@ -70,7 +70,9 @@ layout: default
     'event_label': postName });
   </script>
   <script>
-  fbq('trackCustom', ‘ViewContent’, { content_name : {{ page.title }},
+
+  var ViewContent = function () {
+  fbq('trackCustom',{ content_name : {{ page.title }},
 });
   }
 </script>
