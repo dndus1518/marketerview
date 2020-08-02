@@ -22,13 +22,13 @@ layout: default
         </div>
       </div>
     </div>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'UA-162010974-1');
-    </script>
+    <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-PLW9VM9');</script>
+  <!-- End Google Tag Manager -->
   </header>
 
   <article id="post-content">
@@ -63,16 +63,8 @@ layout: default
   </script>
   <script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us18.list-manage.com","uuid":"4d38e14f7870599953feecfb2","lid":"084bea8dd6","uniqueMethods":true}) })
   </script>
-  <script>
-    var postName = '{{ page.title }}';
-    gtag('event', '보기', {
-    'event_category': '글보기',
-    'event_label': postName });
-  </script>
-  <script>
-
-  fbq('track','viewcontent',{
-     content_name : '{{ page.title }}'
-});
-</script>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PLW9VM9"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
 {% include disqus.html %}
