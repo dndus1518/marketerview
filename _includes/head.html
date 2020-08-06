@@ -106,10 +106,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 </head>
 
-<script>
+<script type="text/javascript">
+
   dateLayer.push({ 'event' : 'ViewContent',
     'content_name' : '{{ page.title }}',
-    'content_id' : '{{ page.content_id }}');
+    'content_id' : '{{ page.content_id }}'
+  });
 </script>
 
 <!-- Google Tag Manager (noscript) -->
