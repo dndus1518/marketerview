@@ -106,9 +106,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 </head>
 
-<script type="text/javascript">
+<script>
 
-  dateLayer.push({ 'event' : 'ViewContent',
+  dataLayer.push({
+    'event' : 'viewcontent',
     'content_name' : '{{ page.title }}',
     'content_id' : '{{ page.content_id }}'
   });
