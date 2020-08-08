@@ -57,14 +57,12 @@ layout: default
   </script>
   <script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us18.list-manage.com","uuid":"4d38e14f7870599953feecfb2","lid":"084bea8dd6","uniqueMethods":true}) })
   </script>
+
   <script>
-
-    dataLayer.push({
-      'event' : 'viewcontent',
-      'content_name' : '{{ page.title }}',
-      'content_ids' : '{{ page.content_ids }}'
-    });
+  dataLayer.push({
+    'event' : 'ViewContent',
+    'content_name' : {{ page.title }},
+    'content_ids' : {{ page.content_ids }}
+  });
   </script>
-
-
 {% include disqus.html %}
