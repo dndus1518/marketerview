@@ -60,9 +60,9 @@ layout: default
 
   <script>
   dataLayer.push({
-    'event' : 'ViewContent',
-    'content_name' : {{ page.title }},
-    'content_ids' : {{ page.content_ids }}
+    'event': 'ViewContent',
+    'content_name': '{{ page.title }}',
+    'content_ids': '{{ page.content_ids }}'
   });
   </script>
 {% include disqus.html %}
