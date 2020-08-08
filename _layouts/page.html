@@ -32,3 +32,12 @@ layout: default
       </div>
     </div>
   </div>
+
+  <script>
+
+    dataLayer.push({
+      'event' : 'ViewContent',
+      'content_name' : '{{ page.title }}',
+      'content_ids' : '{{ page.content_ids }}'
+    });
+  </script>
