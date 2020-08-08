@@ -13,7 +13,7 @@ tags:
   - 제일제당센터
   - B2B마케팅
 description: 당신의 저녁이 충전을 위한 시간이 될 수 있도록, 리얼 저녁솔루션 반찬박스 마케팅 리뷰 
-content_id: projectreview3
+content_ids: 08
 ---
 
 ## Marketerview_ 반찬박스 마케팅 리뷰
