@@ -33,8 +33,7 @@ layout: default
     </div>
   </div>
 
-    <script type="text/javascript">
-     $('#page').ViewContent(function() {
+    <script>
     dataLayer.push({
       'event' : 'ViewContent',
       'content_name' : '{{ page.title }}',
@@ -42,3 +41,10 @@ layout: default
     });
   }
   </script>
+
+  <script>
+    fbq('trackCustom', 'ViewContent', {
+   content_name: {{page.title}}, 
+   content_id: {{page.content_ids}}
+  });
+</script>
