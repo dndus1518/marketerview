@@ -3,8 +3,8 @@ layout: post
 permalink: /moviereview1/
 title: '영화를 보고 감독을 만나는 리뷰 : 데이미언 셔젤'
 date: 2020-11-15 14:30:00 +09:00
-feature: '/img/posts/16/0.png'
-background: '/img/posts/16/0.png'
+feature: '/img/posts/15/0.png'
+background: '/img/posts/15/0.png'
 categories:
   - review
 tags:
