@@ -1,21 +1,23 @@
 ---
 layout: post
-permalink: /bookreview/
-title: '일 하는 사람의 생각'-박웅현X오영식, 김신 정리
-date: 2020-12-13 13:00:00 +09:00
+permalink: /bookreview1/
+title: '일 하는 사람의 생각'-박웅현X오영식, 김신 정리'
+date: 2020-12-13 12:30:00 +09:00
 feature: '/img/posts/16/0.jpg'
-background: '/img/posts/16/0.jpg'
+background: '/img/posts/11/0.jpg'
 categories:
   - review
 tags:
   - 책리뷰
-  - 일하는사람의생각
+  - 디자이너
   - 마케터
-  - 박웅현
+  - 일하는사람의생각
 description: 광고인 박웅현과 디자이너 오영식의 창작에 관한 대화 
 ---
 
-## 일 하는 사람의 생각
+## 책리뷰_일 하는 사람의 생각
+
+
 
 너무 좋은걸 만나면 미사여구를 붙이지 않으려 하는 편이다. 마케터뷰에 기록하는 만큼 내 관점에서 내 마음에 닿았던, 부분들을 담았다. 자신이 무언가 만드는 사람이라면, 되고싶다면  이 책은 꼭 한번 읽어 보라고 해주고 싶었던 그런 책이였다.  
 
