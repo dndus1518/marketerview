@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /bookreview1/
+permalink: /bookreview2/
 title: '일 하는 사람의 생각-박웅현X오영식, 김신 정리'
 date: 2020-12-13 12:30:00 +09:00
 feature: '/img/posts/16/0.jpg'
