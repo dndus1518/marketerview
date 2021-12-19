@@ -2,7 +2,7 @@
 layout: post
 permalink: /projectreview7/
 title: 'Zero To One을 읽고 피터틸을 만나다'
-date: 2021-12-05 13:30:00 +09:00
+date: 2021-12-19 12:30:00 +09:00
 feature: '/img/posts/26/0.jpg'
 background: '/img/posts/26/0.jpg'
 categories:
