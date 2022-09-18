@@ -83,7 +83,7 @@ PIEAT은 우리의 고객인 외식 사업자들이 사업을 영속할 수 있�
 
 <웹사이트>
 
-[https://www.pieat.co.kr](https://www.pieat.co.kr)
+[웹사이트 바로가기](https://www.pieat.co.kr)
 
 
 
@@ -91,4 +91,4 @@ PIEAT은 우리의 고객인 외식 사업자들이 사업을 영속할 수 있�
 
 <인스타그램> 
 
-[https://www.instagram.com/pieat_official/](https://www.instagram.com/pieat_official/)
+[인스타 그램 바로가기](https://www.instagram.com/pieat_official/)
