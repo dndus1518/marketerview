@@ -19,7 +19,7 @@ description: 세상에 없던 신메뉴 펀딩 플랫폼, PIEAT
 
 
 
-**지난 1O개월간 사내벤처에서 비즈니스를 구축했습니다 **
+**지난 1O개월간 사내벤처에서 비즈니스를 구축했습니다**
 
 -
 
@@ -83,10 +83,8 @@ PIEAT은 우리의 고객인 외식 사업자들이 사업을 영속할 수 있�
 
 <웹사이트>
 
-[https://www.pieat.co.kr](https://www.pieat.co.kr/)
-
-[PIEAT(파:잇)세상에 없던 신메뉴 펀딩 플렛폼, PIEAT(파잇)www.pieat.co.kr ](https://www.pieat.co.kr/)
+***[https://www.pieat.co.kr]***
 
 <인스타그램> 
 
-https://www.instagram.com/pieat_official/
+***https://www.instagram.com/pieat_official/***
