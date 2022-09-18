@@ -75,16 +75,20 @@ PIEAT은 우리의 고객인 외식 사업자들이 사업을 영속할 수 있�
 
 
 
-이 글을 보는 분들도, 사이트에 한 번씩 구경해주시고(방문마저 감사하다는 사실을 깨달았다..)
+이 글을 보는 분들도, 사이트에 한 번씩 구경해주시고
 
-응원의 마음을 담아 회원 가입도 팔로우도 해주시면 감사하겠습니다!
+(방문마저 감사하다는 사실을 깨달았다..) 응원의 마음을 담아 회원 가입도 팔로우도 해주시면 감사하겠습니다!
 
 
 
 <웹사이트>
 
-***[https://www.pieat.co.kr]***
+[https://www.pieat.co.kr](https://www.pieat.co.kr)
+
+
+
+
 
 <인스타그램> 
 
-***https://www.instagram.com/pieat_official/***
+[https://www.instagram.com/pieat_official/](https://www.instagram.com/pieat_official/)
